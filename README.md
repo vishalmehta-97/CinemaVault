@@ -81,5 +81,5 @@ Right-click the project -> Run on Server.
 
 Access the app at http://localhost:8080/CinematicVault/movies.
 
-Developed by Karan Singh - MCA Data Science
+Developed by Vishal Mehta - MCA Data Science
 """
